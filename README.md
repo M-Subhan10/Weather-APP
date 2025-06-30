@@ -6,7 +6,7 @@ A simple Android weather application built with Jetpack Compose and Retrofit tha
 
 * Search weather by city name
 * Displays city name, country, temperature, and weather condition
-* Shows a 2x2 card with additional information:
+* Shows a card with additional information:
 
   * Humidity
   * Wind Speed
